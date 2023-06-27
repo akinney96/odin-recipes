@@ -20,10 +20,11 @@ img {
     font-size: 12px;
 }
 
-div {
+body {
+    margin-top: 25px;
     margin-left: 300px;
     margin-right: 300px;
-    margin-bottom: 100px;
+    margin-bottom: 75px;
     border: 2px solid gray;
     border-radius: 10px;
     padding-left: 25px;
