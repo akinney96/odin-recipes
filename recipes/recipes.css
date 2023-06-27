@@ -1,3 +1,4 @@
+
 * {
     font-family: 'Arial', sans-serif;
 }
@@ -16,10 +17,17 @@ img {
 .credit {
     text-align: center;
     margin-top: 5px;
+    font-size: 12px;
 }
 
 div {
     margin-left: 300px;
     margin-right: 300px;
     margin-bottom: 100px
+}
+
+h2 {
+    color: rgb(0, 106, 167);
+    border-top: 1px solid black;
+    padding-top: 7px;
 }
