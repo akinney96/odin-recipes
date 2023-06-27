@@ -1,8 +1,11 @@
+* {
+    font-family: 'Arial', sans-serif;
+
+}
 
 h1 {
     color: rgb(0, 106, 167);
     text-align: center;
-    font-family: 'Helvetica', sans-serif;
 }
 
 img {
@@ -11,8 +14,9 @@ img {
     margin-right: auto;
 }
 
-p {
+.credit {
     text-align: center;
+    margin-top: 5px;
 }
 
 .recipe {
@@ -27,4 +31,3 @@ p {
 div {
     text-align: center;
 }
-
